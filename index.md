@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi Blog
 
-I'm glad you are here. I plan to talk about ...
+Saluditos a todos.
